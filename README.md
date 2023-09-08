@@ -51,8 +51,7 @@ Here are some ideas to get yo8u started:
 
 <hr/>
 
-<h2 align="center">⚒️ Languages & Frameworks ⚒️</h2>
-<br/>
+<h3 align="center">⚒️ Languages & Frameworks ⚒️</h3>
 <div align="center">
 
   [![My Skills](https://skillicons.dev/icons?i=java,c,cs,python,dotnet&theme=light)](https://skillicons.dev)
@@ -61,8 +60,8 @@ Here are some ideas to get yo8u started:
   <br/>
 </div>
 
-<h2 align="center">⚒️ Tools ⚒️</h2>
-<br/>
+<h3 align="center">⚒️ Tools ⚒️</h3>
+
 <div align="center">
   
   [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,visualstudio,eclipse,netlify,vercel,linux&theme=light)](https://skillicons.dev)
@@ -71,8 +70,7 @@ Here are some ideas to get yo8u started:
 
 <hr/>
 
-<h2 align="center">⚡ My GitHub Stats ⚡</h2>
-<br>
+<h3 align="center">⚡ My GitHub Stats ⚡</h3>
 <div align=center>
   <img height=175 src="https://github-readme-stats-salesp07.vercel.app/api?username=KuntalPramanik25&count_private=true&show_icons=true&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
