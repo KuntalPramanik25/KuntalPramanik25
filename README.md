@@ -15,7 +15,7 @@ Here are some ideas to get yo8u started:
 -->
 <br/>
 <h1 align="center">
-  <a ><img src="https://readme-typing-svg.demolab.com?font=Calibri&weight=700&size=35&duration=4000&pause=500&color=000000&center=true&width=443&lines=Hey+there!+%F0%9F%91%8B;I'm+Kuntal+Pramanik." alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Calibri&weight=700&size=35&duration=4000&pause=500&color=000000&center=true&width=443&lines=Hey+there!+%F0%9F%91%8B;I'm+Kuntal+Pramanik." alt="Typing SVG" />
 </h1>
 
 <div> 
