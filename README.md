@@ -29,3 +29,7 @@ Here are some ideas to get you started:
   
   <br/><br/><br/>
 </div>
+
+<img alt="snake eating my contributions" src="https://github.com/KuntalPramanik25/KuntalPramanik25/blob/output/github-contribution-grid-snake.gif" />
+
+![snake gif](https://github.com/KuntalPramanik25/KuntalPramanik25/blob/output/github-contribution-grid-snake.gif)
