@@ -13,6 +13,7 @@ Here are some ideas to get yo8u started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KuntalPramanik25.KuntalPramanik25" />
 <br/>
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Calibri&weight=700&size=35&duration=4000&pause=500&color=000000&center=true&width=443&lines=Hey+there!+%F0%9F%91%8B;I'm+Kuntal+Pramanik." alt="Typing SVG" />
