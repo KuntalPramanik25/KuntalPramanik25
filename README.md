@@ -75,9 +75,9 @@ Here are some ideas to get yo8u started:
 <br>
 <div align=center>
   <img height=175 src="https://github-readme-stats-salesp07.vercel.app/api?username=KuntalPramanik25&count_private=true&show_icons=true&rank_icon=github&border_radius=10" alt="readme stats" />
-  
-  <img height=175 src="https://streak-stats.demolab.com/?user=KuntalPramanik25&count_private=true&border_radius=10" alt="streak stats"/>
-  
+  <br/>
+  <img width=420 src="https://streak-stats.demolab.com/?user=KuntalPramanik25&count_private=true&border_radius=10" alt="streak stats"/>
+  <br/>
   <img width=300 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KuntalPramanik25&hide=HTML&langs_count=5&layout=compact&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
